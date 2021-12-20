@@ -1,6 +1,6 @@
 package Belajar;
 import java.util.Scanner;
-public class ifElseAgesWhileGrades {
+public class ifElseWhileGrades {
     public static void main(String[] args) {
         Scanner jawab1 = new Scanner(System.in);
         int input1 = -1; // value jangan sampai menyamai inputan while
